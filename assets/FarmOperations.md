@@ -6,12 +6,14 @@ My dad gave it to me straight: the farm would eventually be mine. He told me tha
 
 I didn't want to change my life's path; I just wanted to ensure I had the skills/knowledge to keep the property running. Now that period of "apprenticeship" is over. Here is the breakdown of the systems I’ve learned over the last four years.
 
+<!--
 ## [**Photos**](https://drive.proton.me/urls/W7FSPYCW20#HGQhEGqGyrKN)
+-->
 
-
-### The Setup: Two Farms, Two Crops
+## The Setup: Two Farms, Two Crops
 
 We manage about 4,800 $m^2$ of land(5分地), but we split the work between two very different locations depending on what the crops need at that moment.
+
 
 **1. The Nursery (Mountain Farm, close to my home.)**
 This is our "home base" for the plants. We use this site because we have access to clean fountain water (also used at my home) and specialized racks that keep our pots perfectly in place. This is where we grow our "mother plants."
@@ -19,9 +21,8 @@ This is our "home base" for the plants. We use this site because we have access 
 **2. The Production Field (the flat one.)**
 This is where the heavy lifting happens. Strawberries and corn need level (flat) ground. We use river water for irrigation here since it’s the primary production zone.
 
-***
 
-### The Strawberry Cycle: High Intensity
+## The Strawberry Cycle: High Intensity
 
 The strawberry side of the farm is the most demanding part of the operation. It’s a massive scaling project that moves from a few plants to thousands.
 
@@ -30,7 +31,7 @@ The goal of the nursery is to take about 500 "mother plants" and turn them into 
 *   **The Strategy:** We keep the mother plants in 5-inch pots. We either grow our own or buy specific breeds. These plants stay in the nursery—they never go into the field.
 *   **The Scale-Up:** Around May or June, once the stems are strong enough, we move them to the mountain farm. We then use a specialized fork-like tool to secure "children" (seedlings) into smaller 2.5-inch pots. By the time we’re ready to plant, we’ve scaled up from 500 to more than 20000 plants. Some of those that don't grow well will be removed and replaced by another one. Thus, we always grow more than 20000 of seedlings.
 
-> The unit "inch" here is 0.1 feet(3.03 cm), (1臺尺=10/33公尺, 10台吋=1臺尺)
+> The unit "inch" here is 0.1 feet(3.03 cm), (1尺=10/33公尺, 10台吋=1尺)
 
 **The 48-Hour Rush**
 When those 20000 seedlings are ready, we move to the flat farm. This is the most stressful part of the year—a 48-hour window where we hire temporary workers to do two things:
@@ -43,7 +44,7 @@ The rows are spaced about 1.2 meters apart. We laid water pipes (with tiny holes
 
 
 
-### The Corn Cycle: The "Easy" Run
+## The Corn Cycle: The "Easy" Run
 
 The corn cycle is much more efficient because it uses most of the strawberry setup. Another popular choice is tomato, but its intensity is roughly the same as strawberries.
 
@@ -58,9 +59,7 @@ To make sure the corn is actually sellable, we have to be proactive. We manually
 
 The corn is then processed into 20 kg units and sold at auction (北農). The price ranges from 20 to 65 NTD/kg depending on the market.
 
-***
-
-### The Big Reset
+## The Big Reset
 
 Once the corn harvest is done in late August, we do the "big reset" to get ready for the next strawberry season:
 1.  Take down the water pipes.
