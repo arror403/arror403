@@ -1,8 +1,8 @@
 ## Hi, I'm BoKai Huang  (arror403)
 
-### Programmar | Farmer | Job seeker
+### Programmar | Farmer | OpenToWork
 
-My skills are focused on writing efficienct code and privacy-first AI. Computer Science graduate(BSc). Interest in deploying local LLMs. Tech nerd. Being a farmer in recent years so as to be able to survive during wars or any kind of Apocalypse.
+My skills are focused on writing efficienct code and privacy-first AI. Computer Science graduate(BSc). Interest in deploying local LLMs. Tech nerd. Being a farmer in recent years.
 
 - **Specialization:** Python, Linux, Local LLM.
 - **Top 0.1% Global Ranking on LeetCode** (1600+ problems solved)
@@ -14,10 +14,10 @@ My skills are focused on writing efficienct code and privacy-first AI. Computer 
 | Area | Skills |
 | :--- | :--- |
 | **Languages** | `Python`, `C++`, `Java`, `Shell`, `JavaScript` |
-| **AI/ML** | `llama.cpp`, `Local LLM Deployment`, `Gemma-4`, `RAG` |
+| **AI/ML** | `llama.cpp`, `ComfyUI`, `RAG`, `Local LLM Deployment`, `Gemma-4` |
 | **Data processing** | `Pandas`, `RegEx`, `Markdown` |
-| **Systems & DevOps** | `Docker`, `Git`, `WSL`, `Hyper-V`, `Node.js`, `ADB` |
-| **GNU/Linux** | `openSUSE`, `Debian`, `Ubuntu`, `Fedora`, `LineageOS` |
+| **Systems & DevOps** | `Docker`, `Git`, `WSL`, `Hyper-V`, `Node.js` |
+| **GNU/Linux** | `openSUSE-Tumbleweed`, `Ubuntu`, `Fedora`, `LineageOS` |
 
 ---
 
