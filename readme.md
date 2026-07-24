@@ -1,8 +1,8 @@
 ## Hi, I'm BoKai Huang  (arror403)
 
-### Programmar | Farmer | OpenToWork
+### Programmar | OpenToWork
 
-My skills are focused on writing efficienct code and privacy-first AI. Computer Science graduate(BSc). Interest in deploying local LLMs. Tech nerd. Being a farmer in recent years.
+My skills are focused on algorithm design, privacy-focused AI and configuring Linux distros. Computer Science graduate(BSc). Interest in deploying local LLMs. Tech nerd. Was a farmer in the past few years.
 
 - **Specialization:** Python, Linux, Local LLM.
 - **Top 0.1% Global Ranking on LeetCode** (1600+ problems solved)
@@ -13,11 +13,11 @@ My skills are focused on writing efficienct code and privacy-first AI. Computer 
 
 | Area | Skills |
 | :--- | :--- |
-| **Languages** | `Python`, `C++`, `Java`, `Shell`, `JavaScript` |
+| **Languages** | `Python`, `C++`, `Java`, `Shell` |
 | **AI/ML** | `llama.cpp`, `ComfyUI`, `RAG`, `Local LLM Deployment`, `Gemma-4` |
 | **Data processing** | `Pandas`, `RegEx`, `Markdown` |
-| **Systems & DevOps** | `Docker`, `Git`, `WSL`, `Hyper-V`, `Node.js` |
-| **GNU/Linux** | `openSUSE-Tumbleweed`, `Ubuntu`, `Fedora`, `LineageOS` |
+| **Systems & DevOps** | `Docker`, `Git`, `WSL`, `Hyper-V` |
+| **GNU/Linux** | `openSUSE-Tumbleweed`, `Ubuntu`, `Fedora` |
 
 ---
 
