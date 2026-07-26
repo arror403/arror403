@@ -2,9 +2,9 @@
 
 ### Programmar | OpenToWork
 
-My skills are focused on algorithm design, privacy-focused AI and configuring Linux distros. Computer Science graduate(BSc). Interest in deploying local LLMs. Tech nerd. Was a farmer in the past few years.
+My skills are focused on algorithm design, privacy-focused AI and configuring Linux environment. Computer Science graduate(BSc, NCU, Taiwan). Interest in deploying local LLMs. Tech enthusiast. Was a farmer in the past few years.
 
-- **Specialization:** Python, Linux, Local LLM.
+- **Specialization:** Python, Linux, Local AI models.
 - **Top 0.1% Global Ranking on LeetCode** (1600+ problems solved)
 
 ---
@@ -14,7 +14,7 @@ My skills are focused on algorithm design, privacy-focused AI and configuring Li
 | Area | Skills |
 | :--- | :--- |
 | **Languages** | `Python`, `C++`, `Java`, `Shell` |
-| **AI/ML** | `llama.cpp`, `ComfyUI`, `RAG`, `Local LLM Deployment`, `Gemma-4` |
+| **AI/ML** | `llama.cpp`, `ComfyUI`, `RAG`, `Local LLM Deployment` |
 | **Data processing** | `Pandas`, `RegEx`, `Markdown` |
 | **Systems & DevOps** | `Docker`, `Git`, `WSL`, `Hyper-V` |
 | **GNU/Linux** | `openSUSE-Tumbleweed`, `Ubuntu`, `Fedora` |
