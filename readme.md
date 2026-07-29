@@ -44,6 +44,10 @@ My solutions to 1600+ LeetCode problems.
 
 
 ### Environment
+
+- **openSUSE**, mainly used.
 ![openSUSE](https://github.com/arror403/arror403/blob/main/assets/openSUSE_.png)
+- **Ubuntu 26.04**, WSL
 ![Ubuntu(WSL)](https://github.com/arror403/arror403/blob/main/assets/Ubuntu.png)
+- **Fedora 44**, WSL
 ![Fedora(WSL)](https://github.com/arror403/arror403/blob/main/assets/Fedora.png)
