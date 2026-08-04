@@ -15,9 +15,11 @@ My skills are focused on algorithm design, privacy-focused AI and configuring Li
 | :--- | :--- |
 | **Languages** | `Python`, `C++`, `Java`, `Shell` |
 | **AI/ML** | `llama.cpp`, `ComfyUI`, `RAG`, `Local LLM Deployment` |
+| **Models** | `FLUX.2-klein-9B`, `FLUX.1-dev`, `Gemma-4`, `Qwen3.6` |
 | **Data processing** | `Pandas`, `RegEx`, `Markdown` |
 | **Systems & DevOps** | `Docker`, `Git`, `WSL`, `Hyper-V` |
-| **GNU/Linux** | `openSUSE-Tumbleweed`, `Ubuntu`, `Fedora` |
+| **GNU/Linux** | `openSUSE-Tumbleweed`, `Ubuntu 26.04`, `Fedora 44` |
+
 
 ---
 
