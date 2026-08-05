@@ -5,18 +5,17 @@
 My skills are focused on algorithm design, privacy-focused AI and configuring Linux environment. Computer Science graduate(BSc, NCU, Taiwan). Interest in deploying local LLMs. Tech enthusiast. Was a farmer in the past few years.
 
 - **Specialization:** Python, Linux, Local AI models.
-- **Top 0.1% Global Ranking on LeetCode** (1600+ problems solved)
 
 ---
 
-### Technical Snapshot
+### Skills Overview
 
 | Area | Skills |
 | :--- | :--- |
 | **Languages** | `Python`, `C++`, `Java`, `Shell` |
 | **AI/ML** | `llama.cpp`, `ComfyUI`, `RAG`, `Local LLM Deployment` |
 | **Models** | `FLUX.2-klein-9B`, `FLUX.1-dev`, `Gemma-4`, `Qwen3.6` |
-| **Data processing** | `Pandas`, `RegEx`, `Markdown` |
+| **Data** | `Pandas`, `RegEx`, `Markdown` |
 | **Systems & DevOps** | `Docker`, `Git`, `WSL`, `Hyper-V` |
 | **GNU/Linux** | `openSUSE-Tumbleweed`, `Ubuntu 26.04`, `Fedora 44` |
 
@@ -53,3 +52,9 @@ My solutions to 1600+ LeetCode problems.
 ![Ubuntu(WSL)](https://github.com/arror403/arror403/blob/main/assets/Ubuntu.png)
 - **Fedora 44**, WSL
 ![Fedora(WSL)](https://github.com/arror403/arror403/blob/main/assets/Fedora.png)
+
+
+
+
+
+*Is the position you posted here in the room with us?*
