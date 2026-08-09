@@ -2,11 +2,25 @@
 
 ## Featured Repositories
 
-### [local-RAG](https://github.com/arror403/local-RAG)
+### [**local-RAG**](https://github.com/arror403/local-RAG)
 A privacy-focused RAG system. Designed to allow users to query private documents using local LLMs without data ever leaving the machine. Runs without requiring internet connection.
 
-### [Leetcode Problem Solving](https://github.com/arror403/leetcode_archive)
+- llama.cpp — Local LLM inference
+- LangChain — Document processing pipeline
+- FAISS — Vector similarity search
+- Streamlit — Web interface
+- Sentence Transformers — Document embeddings
+
+![Python](https://img.shields.io/badge/Python-3.11-blue?logo=python)
+![Docker](https://img.shields.io/badge/Docker-Compose-2496ED?logo=docker)
+![Streamlit](https://img.shields.io/badge/Streamlit-UI-FF4B4B?logo=streamlit)
+![llama.cpp](https://img.shields.io/badge/llama.cpp-LLM-green)
+
+
+### [**Leetcode Problem Solving**](https://github.com/arror403/leetcode_archive)
 My solutions to 1600+ LeetCode problems.
+
+![](https://github.com/arror403/leetcode_archive/blob/main/screenshots/Screenshot%202026-08-09_Progress%20-%20LeetCode.png)
 
 ---
 
