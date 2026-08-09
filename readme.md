@@ -1,7 +1,5 @@
 # Hi, I'm BoKai Huang  (arror403)
 
----
-
 ## Featured Repositories
 
 ### [local-RAG](https://github.com/arror403/local-RAG)
