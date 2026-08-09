@@ -15,7 +15,7 @@ A privacy-focused RAG system. Designed to allow users to query private documents
 ![Docker](https://img.shields.io/badge/Docker-Compose-2496ED?logo=docker)
 ![Streamlit](https://img.shields.io/badge/Streamlit-UI-FF4B4B?logo=streamlit)
 ![llama.cpp](https://img.shields.io/badge/llama.cpp-LLM-green)
-
+---
 
 ### [**Leetcode Problem Solving**](https://github.com/arror403/leetcode_archive)
 My solutions to 1600+ LeetCode problems.
@@ -47,8 +47,6 @@ My skills are focused on algorithm design, privacy-focused AI and configuring Li
 ## Career & Experience
 
 ### Refer [**here**](https://github.com/arror403/arror403/blob/main/assets/FarmOperations.md)
-
----
 
 ## Contact
 [Email](mailto:huang211395@gmail.com)
