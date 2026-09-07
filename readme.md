@@ -1,4 +1,4 @@
-# Hi, I'm BoKai Huang  (arror403)
+# Hi, I'm arror403
 
 ## Featured Repositories
 
@@ -24,11 +24,11 @@ My solutions to 1600+ LeetCode problems.
 
 ---
 
-## Programmar | OpenToWork
+## About me
 
 My skills are focused on algorithm design, privacy-focused AI and configuring Linux environment. Computer Science graduate(BSc, NCU, Taiwan). Interest in deploying local LLMs. Tech enthusiast. Was a farmer in the past few years.
 
-- **Specialization:** Python, Linux, Local AI models.
+- **Specialization:** Python, Linux, Local LLM
 
 
 ### Skills Overview
@@ -39,14 +39,10 @@ My skills are focused on algorithm design, privacy-focused AI and configuring Li
 | **AI/ML** | `llama.cpp`, `ComfyUI`, `RAG`, `Local LLM Deployment` |
 | **Models** | `FLUX.2-klein-9B`, `FLUX.1-dev`, `Gemma-4`, `Qwen3.6` |
 | **Data** | `Pandas`, `RegEx`, `Markdown` |
-| **Systems & DevOps** | `Docker`, `Git`, `WSL`, `Hyper-V` |
-| **GNU/Linux** | `openSUSE-Tumbleweed`, `Ubuntu 26.04`, `Fedora 44` |
+| **Systems & DevOps** | `Docker`, `Git`, `WSL`, `Hyper-V`, `ADB` |
+| **GNU/Linux** | `openSUSE-Tumbleweed`, `Ubuntu 26.04 LTS`, `Fedora 44` |
 
 ---
-
-## Career & Experience
-
-### Refer [**here**](https://github.com/arror403/arror403/blob/main/assets/FarmOperations.md)
 
 ## Contact
 [Email](mailto:huang211395@gmail.com)
