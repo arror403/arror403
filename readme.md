@@ -58,15 +58,7 @@ My skills are focused on algorithm design, privacy-focused AI and configuring Li
 
 - **openSUSE**, mainly used.
 ![openSUSE](https://github.com/arror403/arror403/blob/main/assets/openSUSE_.png)
-- **Ubuntu 26.04**, WSL
+- **Ubuntu 26.04 LTS**, WSL
 ![Ubuntu(WSL)](https://github.com/arror403/arror403/blob/main/assets/Ubuntu.png)
 - **Fedora 44**, WSL
 ![Fedora(WSL)](https://github.com/arror403/arror403/blob/main/assets/Fedora.png)
-
-
-
-<!--
-
-*Is the position you posted here in the room with us?*
-
--->
