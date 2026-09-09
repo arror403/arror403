@@ -1,5 +1,3 @@
-# Hi, I'm arror403
-
 ## Featured Repositories
 
 ### [**local-RAG**](https://github.com/arror403/local-RAG)
@@ -18,15 +16,16 @@ A privacy-focused RAG system. Designed to allow users to query private documents
 ---
 
 ### [**Leetcode Problem Solving**](https://github.com/arror403/leetcode_archive)
-My solutions to 1600+ LeetCode problems.
 
-![](https://github.com/arror403/leetcode_archive/blob/main/screenshots/Screenshot%202026-08-09_Progress%20-%20LeetCode.png)
+My solutions to 1700+ problems on LeetCode, **42%** of the total 4046 problems solved. Ranked **0.1% among ~5 million** users.
+
+![](https://github.com/arror403/leetcode_archive/blob/main/screenshots/Screenshot%202026-09-09%20at%2013-27-35%20Progress%20-%20LeetCode.png)
 
 ---
 
 ## About me
 
-My skills are focused on algorithm design, privacy-focused AI and configuring Linux environment. Computer Science graduate(BSc, NCU, Taiwan). Interest in deploying local LLMs. Tech enthusiast. Was a farmer in the past few years.
+My skills are focused on algorithm design, privacy-focused LLM and configuring Linux environment. Computer Science graduate(BSc, NCU, Taiwan). Interest in deploying local LLMs. Tech enthusiast. Was a farmer in the past few years.
 
 - **Specialization:** Python, Linux, Local LLM
 
@@ -45,7 +44,7 @@ My skills are focused on algorithm design, privacy-focused AI and configuring Li
 ---
 
 ## Contact
-[Email](mailto:huang211395@gmail.com)
+[Email](mailto:huang211395@gmail.com) `huang211395@gmail.com`
 
 ---
 
