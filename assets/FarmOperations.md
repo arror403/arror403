@@ -1,10 +1,10 @@
 ## Preface
 
-Why did I become a framer after leaving Quanta? Since my parents had children later in life, they were hitting retirement right as I was starting my career. 
+Why did I become a framer after working at Quanta? My parents had children late, they were near retirement when I was at the beginning of my career.
 
-My dad gave it to me straight: the farm would eventually be mine. He told me that if I didn't learn the "how" of the operation now, I’d eventually inherit a property I didn't know how to run. He suggested I take a year to learn the work from them, but I found a year wasn't enough. Thus, I worked with them until their retirement.
+In a casual talk, they siad: the farm would eventually be mine. They suggested me how about I work with them(maybe one year, as an apprentice) when I still have somebody to learn from? I did, but I found a year wasn't enough. Thus, I worked with them until their retirement.
 
-I didn't want to change my life's path; I just wanted to ensure I had the skills/knowledge to keep the property running. Now that period of "apprenticeship" is over. Here is the breakdown of the systems I’ve learned over the last four years.
+I didn't want to change my life's path; I just wanted to make sure I had the skills/knowledge to keep the property running. Now that period of "apprenticeship" is over. Here is a note(and photos) I take to summarize the past few years.
 
 <!--
 ## [**Photos**](https://drive.proton.me/urls/W7FSPYCW20#HGQhEGqGyrKN)
