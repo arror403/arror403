@@ -55,8 +55,9 @@ Complete openSUSE Tumbleweed support from initial installer implementation throu
 | **AI/ML** | ![llama.cpp](https://img.shields.io/badge/llama.cpp-green) ![ComfyUI](https://img.shields.io/badge/ComfyUI-purple) ![RAG](https://img.shields.io/badge/RAG-pipeline-yellow?labelColor=1a1a2e) ![Local LLM](https://img.shields.io/badge/Local_LLM-deployment-green?labelColor=1a1a2e) |
 | **Models** | ![FLUX.2-klein-9B](https://img.shields.io/badge/FLUX_2-klein_9B-blue) ![FLUX.1-dev](https://img.shields.io/badge/FLUX_1-dev-blue) ![Gemma-4](https://img.shields.io/badge/Gemma-4-blue?logo=google) ![Qwen3.6](https://img.shields.io/badge/Qwen-3.6-blue?logo=qwen) |
 | **Infrastructure** | ![Docker](https://img.shields.io/badge/Docker-containers-2496ED?logo=docker) ![Git](https://img.shields.io/badge/Git-VCS-F05032?logo=git) ![WSL](https://img.shields.io/badge/WSL-subsystem-4cae4f?logo=wsl) ![Hyper-V](https://img.shields.io/badge/HyperV-virtualization-00bcf4?label=Hyper-V&labelColor=1a1a2e) |
+<!--
 | **Linux** | ![openSUSE](https://img.shields.io/badge/openSUSE-Tumbleweed-green?logo=opensuse) ![Ubuntu](https://img.shields.io/badge/Ubuntu-26.04%20LTS-E95420?logo=ubuntu) ![Fedora](https://img.shields.io/badge/Fedora-44-blue?logo=fedora) |
-
+-->
 
 ---
 
