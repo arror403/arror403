@@ -8,8 +8,8 @@ Privacy-focused ML engineer | Algorithm specialist | Local-first computing
 
 ## Highlights
 
-![LeetCode Stats](https://img.shields.io/badge/LeetCode-1700%2B%20problems%20solved-blue?logo=leetcode&labelColor=gray)
-![Ranking Badge](https://img.shields.io/badge/Ranking-top%200.1%25-green)
+![LeetCode Stats](https://img.shields.io/badge/LeetCode-1700%2B%20problems%20solved-blue?style=flat-square&logo=leetcode&logoColor=white&labelColor=gray)
+![Ranking Badge](https://img.shields.io/badge/Ranking-top%200.1%25-success?style=flat-square&labelColor=gray)
 
 - 1700+ LeetCode problems solved (**top 0.1% globally**)
 - Building offline-capable RAG systems
@@ -21,19 +21,20 @@ Privacy-focused ML engineer | Algorithm specialist | Local-first computing
 
 ### Predator Sense for Linux
 
-**Two merged PRs** | `Sep 2026` | [cleyton1986/predator-sense](https://github.com/cleyton1986/predator-sense)
+**Three contributions** | `Sep 2026` | [cleyton1986/predator-sense](https://github.com/cleyton1986/predator-sense)
 
-Complete openSUSE Tumbleweed support from initial installer implementation through final documentation.
+Complete openSUSE Tumbleweed support + hardware bug diagnosis across installer, documentation, and kernel-level debugging.
 
-| PR | Title | Status | Impact |
-|----|-------|--------|--------|
-| **#52** | Add openSUSE-Tumbleweed(zypper) support | ✅ Merged v0.2.84-preview | First zypper package manager support (parity with Apt/Dnf/Pacman). Validated on Secure Boot + DKMS kernel modules. 270 test suite passed. |
-| **#56** | Add openSUSE in README; fix install.rs | ✅ Merged v0.3.1 | Documentation across 9 README files. Fixed `pkg-config` → `pkgconf-pkg-config` (correct openSUSE package name). Security-audited, zero new attack surface. |
+| Type | Reference | Status | Impact |
+|------|-----------|--------|--------|
+| **PR** | #52: Add openSUSE-Tumbleweed(zypper) support | ✅ Merged v0.2.84-preview | First zypper package manager support (parity with Apt/Dnf/Pacman). Validated on Secure Boot + DKMS kernel modules. 270 test suite passed. |
+| **PR** | #56: Add openSUSE in README; fix install.rs | ✅ Merged v0.3.1 | Documentation across 9 README files. Fixed `pkg-config` → `pkgconf-pkg-config` (correct openSUSE package name). Security-audited, zero new attack surface. |
+| **Issue** | #64: PH315-54 keyboard backlight → screen brightness bug | 🔧 Diagnosed | Root cause: systemd hwdb missing `PH315-54` entry. Provided evtest traces, created `/etc/udev/hwdb.d/70-keyboard-fix.hwdb` workaround. Upstream systemd bug identified. |
 
-<!-- Contribution Quality Badges -->
-![Rust GTK4](https://img.shields.io/badge/Rust-GTK4-orange?logo=rust&labelColor=1a1a2e)
-![Tests Passed](https://img.shields.io/badge/Tests-270%20passed-success?logo=pytest&labelColor=1a1a2e)
-![Release Shipped](https://img.shields.io/badge/Releases-2%20merged-brightgreen?logo=semver&labelColor=1a1a2e)
+![Rust GTK4](https://img.shields.io/badge/Rust-GTK4-orange?style=flat-square&logo=rust&logoColor=white)
+![Tests Passed](https://img.shields.io/badge/Tests-270%20passed-success?style=flat-square&logo=pytest&logoColor=white)
+![Releases Shipped](https://img.shields.io/badge/Releases-2%20merged-brightgreen?style=flat-square&logo=semver&logoColor=white)
+![Systemd hwdb](https://img.shields.io/badge/systemd_hwdb-diagnosis-blue?style=flat-square&logo=linux&logoColor=white)
 
 ---
 
