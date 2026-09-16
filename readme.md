@@ -1,10 +1,3 @@
-# arror403
-
-Privacy-focused ML engineer | Algorithm specialist | Local-first computing
-
-📍 Taiwan | 🎓 NCU CS Graduate
-
----
 
 ## Highlights
 
