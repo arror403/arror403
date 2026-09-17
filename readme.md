@@ -9,7 +9,7 @@
 - Open source contributor for Linux hardware tools
 
 ---
-
+<!--
 ## External Contributions
 
 ### Predator Sense for Linux
@@ -30,7 +30,7 @@ Complete openSUSE Tumbleweed support + hardware bug diagnosis across installer, 
 ![Systemd hwdb](https://img.shields.io/badge/systemd_hwdb-diagnosis-blue?style=flat-square&logo=linux&logoColor=white)
 
 ---
-
+-->
 ## Featured Projects
 
 | Repository | Description | Stack |
@@ -46,11 +46,8 @@ Complete openSUSE Tumbleweed support + hardware bug diagnosis across installer, 
 |----------|--------------|
 | **Languages** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cpp&logoColor=white) ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) ![Rust](https://img.shields.io/badge/Rust-DEA584?style=flat-square&logo=rust&logoColor=black) ![Shell](https://img.shields.io/badge/Shell-F15A24?style=flat-square&logo=gnu-bash&logoColor=white) ![Assembly](https://img.shields.io/badge/Assembly-6E6E6E?style=flat-square) |
 | **AI/LLM** | ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white) ![llama.cpp](https://img.shields.io/badge/llama.cpp-GGUF-black?style=flat-square) ![ComfyUI](https://img.shields.io/badge/ComfyUI-232323?style=flat-square) ![RAG](https://img.shields.io/badge/RAG-2E7D32?style=flat-square) ![MCP](https://img.shields.io/badge/MCP-D97757?style=flat-square&logo=anthropic&logoColor=white) ![LoRA](https://img.shields.io/badge/LoRA-9C27B0?style=flat-square) ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white) ![Faiss](https://img.shields.io/badge/Faiss-0467DF?style=flat-square&logo=meta&logoColor=white) |
-| **Models** | ![FLUX.2-klein-9B](https://img.shields.io/badge/FLUX_2-klein_9B-blue?style=flat-square) ![FLUX.1-dev](https://img.shields.io/badge/FLUX_1-dev-blue?style=flat-square) ![Gemma-4](https://img.shields.io/badge/Gemma-4-blue?style=flat-square&logo=google&logoColor=white) ![Qwen3.6](https://img.shields.io/badge/Qwen-3.6-blue?style=flat-square&logo=qwen&logoColor=white) |
 | **Data & Libraries** | ![pandas](https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white) ![RegEx](https://img.shields.io/badge/RegEx-E34F26?style=flat-square) ![Markdown](https://img.shields.io/badge/Markdown-000000?style=flat-square&logo=markdown&logoColor=white) |
 | **Infrastructure** | ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![WSL](https://img.shields.io/badge/WSL-FCC624?style=flat-square&logo=linux&logoColor=black) ![Hyper-V](https://img.shields.io/badge/Hyper_V-0078D4?style=flat-square&logo=msft&logoColor=white) ![VirtualBox](https://img.shields.io/badge/VirtualBox-183A61?style=flat-square&logo=virtualbox&logoColor=white) ![ADB](https://img.shields.io/badge/ADB-3DDC84?style=flat-square&logo=android&logoColor=white) |
-| **Compilers & Low-Level** | ![LLVM](https://img.shields.io/badge/Compiler_Design-262D3A?style=flat-square&logo=llvm&logoColor=white) |
-
 
 | **Operating Systems** | **Description** |
 |-----------------------|------------------|
