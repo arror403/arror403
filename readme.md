@@ -37,7 +37,7 @@ Complete openSUSE Tumbleweed support + hardware bug diagnosis across installer, 
 |------------|-------------|-------|
 | **[local-RAG](https://github.com/arror403/local-RAG)** | Privacy-first RAG system running entirely locally. Query documents without data leaving your machine. | ![Python](https://img.shields.io/badge/Python-3.11-blue?logo=python) ![Docker](https://img.shields.io/badge/Docker-Compose-2496ED?logo=docker) ![Streamlit](https://img.shields.io/badge/Streamlit-UI-FF4B4B?logo=streamlit) |
 | **[Leetcode Archive](https://github.com/arror403/leetcode_archive)** | Algorithm solutions with complexity analysis. Covers 42% of all LeetCode problems (1700+/4046). | ![Python](https://img.shields.io/badge/Python-solutions-blue?logo=python) |
-| **[Predator Sense Fork](https://github.com/cleyton1986/predator-sense)** | Acer laptop hardware control for Linux. RGB, fan control, GPU monitoring. | ![Rust](https://img.shields.io/badge/Rust-GTK4-orange?logo=rust) |
+| **[Predator Sense](https://github.com/cleyton1986/predator-sense)**| <p>Repo of **cleyton1986**. Acer laptop hardware control for Linux. RGB, fan control, GPU monitoring.<br><br> My contribution: <ul><li> **Issue** [#64](https://github.com/cleyton1986/predator-sense/issues/64): PH315-54 keyboard backlight → screen brightness bug </li><li> **PR** [#52](https://github.com/cleyton1986/predator-sense/pull/52): Add openSUSE-Tumbleweed(zypper) support Merged v0.2.84-preview </li><li> **PR** [#56](https://github.com/cleyton1986/predator-sense/pull/56): Add openSUSE in README; fix install.rs Merged v0.3.1 </li></ul></p> | ![Rust](https://img.shields.io/badge/Rust-GTK4-orange?logo=rust) |
 
 ---
 ## Skills Overview
