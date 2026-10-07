@@ -51,13 +51,14 @@ Complete openSUSE Tumbleweed support + hardware bug diagnosis across installer, 
 
 | **Operating Systems** | **Description** |
 |-----------------------|------------------|
-| **GNU/Linux** | ![openSUSE Tumbleweed](https://img.shields.io/badge/openSUSE_Tumbleweed-73BA25?style=flat-square&logo=opensuse&logoColor=white) ![Ubuntu 26.04 LTS](https://img.shields.io/badge/Ubuntu_26.04_LTS-E95420?style=flat-square&logo=ubuntu&logoColor=white) ![Fedora 44](https://img.shields.io/badge/Fedora_44-51A2DA?style=flat-square&logo=fedora&logoColor=white) ![Tails](https://img.shields.io/badge/Tails-56347C?style=flat-square) |
-| **Microsoft** | ![Windows 11](https://img.shields.io/badge/Windows_11-0078D4?style=flat-square&logo=windows&logoColor=white) ![Windows Legacy](https://img.shields.io/badge/Windows_10%7C7%7CVista%7CXP-0078D4?style=flat-square&logo=windows&logoColor=white) ![WinPE](https://img.shields.io/badge/WinPE-737373?style=flat-square&logo=windows&logoColor=white) |
+| **GNU/Linux** | ![openSUSE Tumbleweed](https://img.shields.io/badge/openSUSE-73BA25?style=flat-square&logo=opensuse&logoColor=white) ![Ubuntu 26.04 LTS](https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white) ![Fedora 44](https://img.shields.io/badge/Fedora-51A2DA?style=flat-square&logo=fedora&logoColor=white) ![Tails](https://img.shields.io/badge/Tails-56347C?style=flat-square) |
+| **Microsoft** | ![Windows](https://img.shields.io/badge/Windows-0078D4?style=flat-square&logo=windows&logoColor=white)  ![WinPE](https://img.shields.io/badge/WinPE-737373?style=flat-square&logo=windows&logoColor=white) |
 | **Apple** | ![iPadOS](https://img.shields.io/badge/iPadOS-000000?style=flat-square&logo=apple&logoColor=white) ![iOS](https://img.shields.io/badge/iOS-000000?style=flat-square&logo=apple&logoColor=white) |
 | **Mobile** | ![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white) ![LineageOS](https://img.shields.io/badge/LineageOS-167C80?style=flat-square&logo=lineageos&logoColor=white) ![Fire OS](https://img.shields.io/badge/Fire_OS-FC4C02?style=flat-square&logo=amazon&logoColor=white) |
 | **Shells** | ![zsh](https://img.shields.io/badge/zsh-F15A24?style=flat-square) ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white) |
 
 <!--
+![Windows Legacy](https://img.shields.io/badge/Windows_10%7C7%7CVista%7CXP-0078D4?style=flat-square&logo=windows&logoColor=white)
 > **Note:** Android coverage excludes versions 1, 3, 8, 12, 16, 17.
 -->
 
