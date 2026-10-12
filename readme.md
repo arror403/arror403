@@ -1,14 +1,4 @@
 
-## Highlights
-
-![LeetCode Stats](https://img.shields.io/badge/LeetCode-1700%2B%20problems%20solved-blue?style=flat-square&logo=leetcode&logoColor=white&labelColor=gray)
-![Ranking Badge](https://img.shields.io/badge/Ranking-top%200.1%25-success?style=flat-square&labelColor=gray)
-
-- 1700+ LeetCode problems solved (**top 0.1% globally**)
-- Building offline-capable RAG systems
-- Open source contributor for Linux hardware tools
-
----
 <!--
 ## External Contributions
 
@@ -38,8 +28,18 @@ Complete openSUSE Tumbleweed support + hardware bug diagnosis across installer, 
 | **[local-RAG](https://github.com/arror403/local-RAG)** | Privacy-first RAG system running entirely locally. Query documents without data leaving your machine. | ![Python](https://img.shields.io/badge/Python-3.11-blue?logo=python) ![Docker](https://img.shields.io/badge/Docker-Compose-2496ED?logo=docker) ![Streamlit](https://img.shields.io/badge/Streamlit-UI-FF4B4B?logo=streamlit) |
 | **[Leetcode Archive](https://github.com/arror403/leetcode_archive)** | Algorithm solutions with complexity analysis. Covers 42% of all LeetCode problems (1700+/4046). | ![Python](https://img.shields.io/badge/Python-solutions-blue?logo=python) |
 | **[Predator Sense](https://github.com/cleyton1986/predator-sense)**| <p>Repo of **cleyton1986**. Acer laptop hardware control for Linux. RGB, fan control, GPU monitoring.<br><br> My contribution: <ul><li> **Issue** [#64](https://github.com/cleyton1986/predator-sense/issues/64): PH315-54 keyboard backlight → screen brightness bug </li><li> **PR** [#52](https://github.com/cleyton1986/predator-sense/pull/52): Add openSUSE-Tumbleweed(zypper) support Merged v0.2.84-preview </li><li> **PR** [#56](https://github.com/cleyton1986/predator-sense/pull/56): Add openSUSE in README; fix install.rs Merged v0.3.1 </li></ul></p> | ![Rust](https://img.shields.io/badge/Rust-GTK4-orange?logo=rust) |
+| **[Linux note](https://github.com/arror403/arror403_note)** | Linux troubleshooting notes (BIOS update, secure boot, udev, PipeWire, WirePlumber) | ![Markdown](https://img.shields.io/badge/Markdown-000000?style=flat-square&logo=markdown&logoColor=white)  | 
 
----
+## Highlights
+
+![LeetCode Stats](https://img.shields.io/badge/LeetCode-1700%2B%20problems%20solved-blue?style=flat-square&logo=leetcode&logoColor=white&labelColor=gray)
+![Ranking Badge](https://img.shields.io/badge/Ranking-top%200.1%25-success?style=flat-square&labelColor=gray)
+
+- 1700+ LeetCode problems solved (**top 0.1% globally**)
+- Building offline-capable RAG systems
+- Open source contributor for Linux hardware tools
+
+
 ## Skills Overview
 
 | Category | Technologies |
@@ -56,11 +56,6 @@ Complete openSUSE Tumbleweed support + hardware bug diagnosis across installer, 
 | **Apple** | ![iPadOS](https://img.shields.io/badge/iPadOS-000000?style=flat-square&logo=apple&logoColor=white) ![iOS](https://img.shields.io/badge/iOS-000000?style=flat-square&logo=apple&logoColor=white) |
 | **Mobile** | ![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white) ![LineageOS](https://img.shields.io/badge/LineageOS-167C80?style=flat-square&logo=lineageos&logoColor=white) ![Fire OS](https://img.shields.io/badge/Fire_OS-FC4C02?style=flat-square&logo=amazon&logoColor=white) |
 | **Shells** | ![zsh](https://img.shields.io/badge/zsh-F15A24?style=flat-square) ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white) |
-
-<!--
-![Windows Legacy](https://img.shields.io/badge/Windows_10%7C7%7CVista%7CXP-0078D4?style=flat-square&logo=windows&logoColor=white)
-> **Note:** Android coverage excludes versions 1, 3, 8, 12, 16, 17.
--->
 
 ## Development Environments
 
