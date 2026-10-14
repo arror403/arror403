@@ -3,7 +3,7 @@
 ![LeetCode Stats](https://img.shields.io/badge/LeetCode-1700%2B%20problems%20solved-blue?style=flat-square&logo=leetcode&logoColor=white&labelColor=gray)
 ![Ranking Badge](https://img.shields.io/badge/Ranking-top%200.1%25-success?style=flat-square&labelColor=gray)
 
-- 1700+ LeetCode problems solved (**top 0.1%**)
+<!-- - 1700+ LeetCode problems solved (**top 0.1%**) -->
 - Building offline-capable RAG systems
 - Open source contributor for Linux hardware tools
 
@@ -17,13 +17,12 @@
 | **[Linux note](https://github.com/arror403/arror403_note)** | Linux troubleshooting notes (BIOS update, secure boot, udev, PipeWire, WirePlumber) | ![Markdown](https://img.shields.io/badge/Markdown-000000?style=flat-square&logo=markdown&logoColor=white)  | 
 
 
-
 ## Skills Overview
 
 | Category | Technologies |
 |----------|--------------|
-| **Languages** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cpp&logoColor=white) ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) ![Rust](https://img.shields.io/badge/Rust-DEA584?style=flat-square&logo=rust&logoColor=black) ![Shell](https://img.shields.io/badge/Shell-F15A24?style=flat-square&logo=gnu-bash&logoColor=white) ![Assembly](https://img.shields.io/badge/Assembly-6E6E6E?style=flat-square) |
-| **AI/LLM** | ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white) ![llama.cpp](https://img.shields.io/badge/llama.cpp-GGUF-black?style=flat-square) ![ComfyUI](https://img.shields.io/badge/ComfyUI-232323?style=flat-square) ![RAG](https://img.shields.io/badge/RAG-2E7D32?style=flat-square) ![MCP](https://img.shields.io/badge/MCP-D97757?style=flat-square&logo=anthropic&logoColor=white) ![LoRA](https://img.shields.io/badge/LoRA-9C27B0?style=flat-square) ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white) ![Faiss](https://img.shields.io/badge/Faiss-0467DF?style=flat-square&logo=meta&logoColor=white) |
+| **Languages** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cpp&logoColor=white) ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) ![Rust](https://img.shields.io/badge/Rust-DEA584?style=flat-square&logo=rust&logoColor=black) ![zsh](https://img.shields.io/badge/zsh-F15A24?style=flat-square) ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white) ![Assembly](https://img.shields.io/badge/Assembly-6E6E6E?style=flat-square) |
+| **AI/LLM** | ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white) ![llama.cpp](https://img.shields.io/badge/llama.cpp-GGUF-black?style=flat-square) ![ComfyUI](https://img.shields.io/badge/ComfyUI-232323?style=flat-square) ![RAG](https://img.shields.io/badge/RAG-2E7D32?style=flat-square) ![LoRA](https://img.shields.io/badge/LoRA-9C27B0?style=flat-square) ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white) ![Faiss](https://img.shields.io/badge/Faiss-0467DF?style=flat-square&logo=meta&logoColor=white) |
 | **Data & Libraries** | ![RegEx](https://img.shields.io/badge/RegEx-E34F26?style=flat-square) ![Markdown](https://img.shields.io/badge/Markdown-000000?style=flat-square&logo=markdown&logoColor=white) |
 | **Infrastructure** | ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![WSL](https://img.shields.io/badge/WSL-FCC624?style=flat-square&logo=linux&logoColor=black) ![Hyper-V](https://img.shields.io/badge/Hyper_V-0078D4?style=flat-square&logo=msft&logoColor=white) ![VirtualBox](https://img.shields.io/badge/VirtualBox-183A61?style=flat-square&logo=virtualbox&logoColor=white) ![ADB](https://img.shields.io/badge/ADB-3DDC84?style=flat-square&logo=android&logoColor=white) |
 
@@ -33,7 +32,7 @@
 | **Microsoft** | ![Windows](https://img.shields.io/badge/Windows-0078D4?style=flat-square&logo=windows&logoColor=white)  ![WinPE](https://img.shields.io/badge/WinPE-737373?style=flat-square&logo=windows&logoColor=white) |
 | **Apple** | ![iPadOS](https://img.shields.io/badge/iPadOS-000000?style=flat-square&logo=apple&logoColor=white) ![iOS](https://img.shields.io/badge/iOS-000000?style=flat-square&logo=apple&logoColor=white) |
 | **Mobile** | ![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white) ![LineageOS](https://img.shields.io/badge/LineageOS-167C80?style=flat-square&logo=lineageos&logoColor=white) ![Fire OS](https://img.shields.io/badge/Fire_OS-FC4C02?style=flat-square&logo=amazon&logoColor=white) |
-| **Shells** | ![zsh](https://img.shields.io/badge/zsh-F15A24?style=flat-square) ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white) |
+
 
 ## Development Environments
 
@@ -41,3 +40,10 @@
 ![Ubuntu WSL](https://img.shields.io/badge/Ubuntu_WSL-26.04_LTS-E95420?logo=ubuntu&labelColor=1a1a2e)
 ![Fedora WSL](https://img.shields.io/badge/Fedora_WSL-44-51a2da?logo=fedora&labelColor=1a1a2e)
 ![Windows](https://img.shields.io/badge/Windows-blue)
+
+
+## External Links
+
+[**LeetCode**](https://leetcode.com/u/arror404/)
+
+[**openSUSE forums**](https://forums.opensuse.org/u/arror403/summary)
