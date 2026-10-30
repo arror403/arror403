@@ -3,7 +3,7 @@
 ![LeetCode Stats](https://img.shields.io/badge/LeetCode-1700%2B%20problems%20solved-blue?style=flat-square&logo=leetcode&logoColor=white&labelColor=gray)
 ![Ranking Badge](https://img.shields.io/badge/Ranking-top%200.1%25-success?style=flat-square&labelColor=gray)
 
-- 1700+ LeetCode problems solved, **42%** of the total **4096** problems. Ranked **0.1%** among **~5 million** users. From 2022/6/20 to 2026/9/15 (1549 days; 4 years, 2 months, 27 days) only 13 days without submission. 
+- 1700+ LeetCode problems solved, **42%** of the total **4096** problems. Ranked **0.1%** among **~5 million** users. <!-- From 2022/6/20 to 2026/9/15 (1549 days; 4 years, 2 months, 27 days) only 13 days without submission.  -->
 - Building offline-capable RAG systems
 - Open source contributor for Linux hardware tools
 
