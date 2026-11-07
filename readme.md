@@ -38,7 +38,7 @@
 
 ![openSUSE](https://img.shields.io/badge/openSUSE_Tumbleweed-workstation-73ba25?logo=opensuse&labelColor=1a1a2e)
 ![Ubuntu WSL](https://img.shields.io/badge/Ubuntu_WSL-26.04_LTS-E95420?logo=ubuntu&labelColor=1a1a2e)
-![Fedora WSL](https://img.shields.io/badge/Fedora_WSL-44-51a2da?logo=fedora&labelColor=1a1a2e)
+![Fedora WSL](https://img.shields.io/badge/Fedora_WSL-45-51a2da?logo=fedora&labelColor=1a1a2e)
 ![Windows](https://img.shields.io/badge/Windows-blue)
 
 
