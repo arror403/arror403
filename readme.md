@@ -47,3 +47,5 @@
 [**LeetCode**](https://leetcode.com/u/arror404/)
 
 [**openSUSE forums**](https://forums.opensuse.org/u/arror403/summary)
+
+[**Hugging Face**](https://huggingface.co/arror403)
